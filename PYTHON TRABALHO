@@ -1,0 +1,14 @@
+-Repetição:frutas = ['maçã', 'banana', 'laranja']
+for fruta in frutas:
+    print(fruta)
+
+
+-Tomada de decisão: nota = 60
+if nota >= 90:
+    print("Conceito A")
+elif nota >= 80:
+    print("Conceito B")
+elif nota >= 70:
+    print("Conceito C")
+else:
+    print("Conceito D")
